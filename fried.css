@@ -1,0 +1,16 @@
+html{
+    text-align: center;
+}
+h1{
+    color: red;
+}
+.name{
+    font: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 78, 47);
+}
+
+.strong{
+    font-size: auto;
+    font-style: oblique;
+}
